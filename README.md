@@ -1,0 +1,1 @@
+Successfully built a Real-Time Chat Application using Next.js, MongoDB, and Socket.IO as part of my Full Stack Web Development Internship at Prodigy Infotech. 💻🛠️ The app enables users to send and receive messages instantly with live updates. 💬⚡ Grateful for the hands-on learning experience! 
